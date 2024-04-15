@@ -5,7 +5,7 @@
 [node name="Main" type="Node2D"]
 
 [node name="Icon" type="Sprite2D" parent="."]
-modulate = Color(1, 0.870588, 0.00784314, 1)
-position = Vector2(324, 523)
-scale = Vector2(4.625, 1.98437)
+modulate = Color(0.278431, 0.152941, 1, 1)
+position = Vector2(1041, 211)
+scale = Vector2(0.812501, 1.98437)
 texture = ExtResource("1_xv5l3")
